@@ -1,5 +1,7 @@
 # Local Labels Beat Public Data: Cross-Network Evaluation of Lightweight and Explainable IoT Intrusion Detectors
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23954267.svg)](https://doi.org/10.5281/zenodo.23954267)
+
 Code, notebook, result files and ESP32 benchmark for the paper by **Md Masum Kawsar** and **Mayishat Altab Mridu** (Department of Computer Science and Engineering, Daffodil International University, Dhaka, Bangladesh)
 
 > **Local Labels Beat Public Data: Cross-Network Evaluation of Lightweight and Explainable IoT Intrusion Detectors**
