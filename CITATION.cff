@@ -12,9 +12,14 @@ authors:
     orcid: "https://orcid.org/0009-0006-5069-3097"
     affiliation: "Department of Computer Science and Engineering, Daffodil International University, Dhaka, Bangladesh"
 license: MIT
-repository-code: "https://github.com/masumkawsar99/iot-ids-cross-network"
+repository-code: "https://github.com/masumkawsar/iot-ids-cross-network"
 version: "1.0.0"
 date-released: "2026-11-05"
+doi: "10.5281/zenodo.23954267"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23954267"
+    description: "Concept DOI (all versions)"
 keywords:
   - intrusion detection
   - Internet of Things
